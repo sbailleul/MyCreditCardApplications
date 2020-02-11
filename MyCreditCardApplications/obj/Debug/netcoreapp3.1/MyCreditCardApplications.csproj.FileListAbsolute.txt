@@ -1,0 +1,11 @@
+C:\Users\sbailleu\Documents\Training\2. C#\1. xUnit\MyCreditCardApplications\MyCreditCardApplications\bin\Debug\netcoreapp3.1\MyCreditCardApplications.exe
+C:\Users\sbailleu\Documents\Training\2. C#\1. xUnit\MyCreditCardApplications\MyCreditCardApplications\bin\Debug\netcoreapp3.1\MyCreditCardApplications.deps.json
+C:\Users\sbailleu\Documents\Training\2. C#\1. xUnit\MyCreditCardApplications\MyCreditCardApplications\bin\Debug\netcoreapp3.1\MyCreditCardApplications.runtimeconfig.json
+C:\Users\sbailleu\Documents\Training\2. C#\1. xUnit\MyCreditCardApplications\MyCreditCardApplications\bin\Debug\netcoreapp3.1\MyCreditCardApplications.runtimeconfig.dev.json
+C:\Users\sbailleu\Documents\Training\2. C#\1. xUnit\MyCreditCardApplications\MyCreditCardApplications\bin\Debug\netcoreapp3.1\MyCreditCardApplications.dll
+C:\Users\sbailleu\Documents\Training\2. C#\1. xUnit\MyCreditCardApplications\MyCreditCardApplications\bin\Debug\netcoreapp3.1\MyCreditCardApplications.pdb
+C:\Users\sbailleu\Documents\Training\2. C#\1. xUnit\MyCreditCardApplications\MyCreditCardApplications\obj\Debug\netcoreapp3.1\MyCreditCardApplications.csprojAssemblyReference.cache
+C:\Users\sbailleu\Documents\Training\2. C#\1. xUnit\MyCreditCardApplications\MyCreditCardApplications\obj\Debug\netcoreapp3.1\MyCreditCardApplications.AssemblyInfoInputs.cache
+C:\Users\sbailleu\Documents\Training\2. C#\1. xUnit\MyCreditCardApplications\MyCreditCardApplications\obj\Debug\netcoreapp3.1\MyCreditCardApplications.AssemblyInfo.cs
+C:\Users\sbailleu\Documents\Training\2. C#\1. xUnit\MyCreditCardApplications\MyCreditCardApplications\obj\Debug\netcoreapp3.1\MyCreditCardApplications.dll
+C:\Users\sbailleu\Documents\Training\2. C#\1. xUnit\MyCreditCardApplications\MyCreditCardApplications\obj\Debug\netcoreapp3.1\MyCreditCardApplications.pdb
